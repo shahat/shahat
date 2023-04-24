@@ -14,4 +14,4 @@ My Absolute Favorites:
     📰   Reading & writing tech blogs whenever possible.
     🍕   Hackathons, meetups & tech events.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahat)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahat&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

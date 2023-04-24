@@ -1,12 +1,13 @@
 <h1> Hi there , My name is Mohamed Elshahat </h1>
-    🛠   I’m currently working with JS , TS, React , Redux  .
-    🚀   I’m currently learning Front end Development .
-    👨🏻‍💻   Most of my projects are available on Github.
-    💬   Ask me about anything here! I am happy to help.
-    👾   Fun fact: Equal is Not Always Equal in Javascript.
-    📫   How to reach me: mohamed.elshahat.hassan97@gmail.com
-    📝   Checkout my Resume.
-
+ <ul>
+    <li>🛠   I’m currently working with JS , TS, React , Redux  .
+    <li>🚀   I’m currently learning Front end Development .
+    <li>🏻‍💻 Most of my projects are available on Github.
+    <li>💬   Ask me about anything here! I am happy to help.
+    <li>👾   Fun fact: Equal is Not Always Equal in Javascript.
+    <li>📫   How to reach me: mohamed.elshahat.hassan97@gmail.com
+    <li>📝   Checkout my Resume.
+ </ul>
 My Absolute Favorites:
 
     💻   I love exploring new tech stack and building cool stuffs.

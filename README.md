@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1> Hi there , My name is Mohamed Elshahat </h1>
+    🛠   I’m currently working with JS , TS, React , Redux  .
+    🚀   I’m currently learning Front end Development .
+    👨🏻‍💻   Most of my projects are available on Github.
+    💬   Ask me about anything here! I am happy to help.
+    👾   Fun fact: Equal is Not Always Equal in Javascript.
+    📫   How to reach me: mohamed.elshahat.hassan97@gmail.com
+    📝   Checkout my Resume.
 
-<!--
-**shahat/shahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Absolute Favorites:
 
-Here are some ideas to get you started:
+    💻   I love exploring new tech stack and building cool stuffs.
+    📰   Reading & writing tech blogs whenever possible.
+    🍕   Hackathons, meetups & tech events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+
+cpp python javascript nodejs expressjs react graphql sql mongodb git terminal

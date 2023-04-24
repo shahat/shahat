@@ -14,6 +14,4 @@ My Absolute Favorites:
     📰   Reading & writing tech blogs whenever possible.
     🍕   Hackathons, meetups & tech events.
 
-Languages and Tools:
-
-cpp python javascript nodejs expressjs react graphql sql mongodb git terminal
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahat)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-<h1> Hi there , My name is Mohamed Elshahat </h1>
+<h1> Hi , I'm Mohamed Elshahat </h1>
  <ul>
     <li>🛠   I’m currently working with JS , TS, React , Redux  .
     <li>🚀   I’m currently learning Front end Development .

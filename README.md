@@ -6,7 +6,7 @@
     <li>💬   Ask me about anything here! I am happy to help.
     <li>👾   Fun fact: Equal is Not Always Equal in Javascript.
     <li>📫   How to reach me: mohamed.elshahat.hassan97@gmail.com
-    <li>📝   Checkout my Resume.
+    <li>📝   I love to hack things .
  </ul>
 My Absolute Favorites:
 
